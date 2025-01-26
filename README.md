@@ -1,8 +1,4 @@
 ### <div align="center">I'm Vidhin, a full-time software developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-- 🔭 I’m currently working on my own shell  
-  
 
 - 🌱 I’m currently learning machine learning  
   
